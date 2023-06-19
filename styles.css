@@ -1,7 +1,7 @@
 * {
     background-color: black;
     font-family: serif;
-    color: crimson;
+    color: #9c1c16;
 }
 
 div, h1, h3 {
@@ -19,7 +19,7 @@ p {
     font-size: large;
     margin-left: 2cm;
     margin-right: 2cm;
-    color: crimson;
+
 }
 
 #maus {

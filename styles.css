@@ -1,7 +1,7 @@
 * {
     background-color: black;
     font-family: serif;
-    color: #cf281f;
+    color: #c00a00;
 }
 
 div, h1, h3 {
@@ -44,6 +44,21 @@ h1 {
 h3 {
     font-size: x-large;
     margin-top: 10px;
+}
+
+#banner-left {
+    float:left;
+    width: 165px;
+    height:auto;
+
+    margin-left: 40px;
+}
+
+#banner-right {
+    float:right;
+    width: 165px;
+    height:auto;
+    margin-right: 40px;
 }
 
 

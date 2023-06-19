@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    font-family: serif;
+    color: maroon;
+}
+
+div, h1, h3 {
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    font-size:xx-large;
+}
+
+p {
+    font-size: large;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+#maus {
+    margin-top:2cm;
+    width:400px;
+    height: auto;
+}
+
+
+

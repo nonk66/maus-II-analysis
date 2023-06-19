@@ -19,6 +19,8 @@ p {
     font-size: x-large;
     margin-left: 2cm;
     margin-right: 2cm;
+    text-align-last: center;
+    text-align: center;
 
 }
 
